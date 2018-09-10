@@ -1,2 +1,3 @@
 # barfussdiscobasel.github.io
-Web page for Barfussdisco Basel source cdoe
+
+Barfussdisco Basel web page source code.
